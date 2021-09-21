@@ -1,0 +1,9 @@
+tqdm
+docx2txt
+numpy
+pandas
+wordcloud
+pyldavis
+gensim
+seaborn
+matplotlib
